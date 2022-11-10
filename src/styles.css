@@ -1,0 +1,13 @@
+/* Add application styles & imports to this file! */
+
+.fill-none{
+  fill:none;
+}
+
+.stroke-green {
+  stroke: forestgreen;
+}
+
+.stroke-5 {
+  stroke-width: 5px;
+}

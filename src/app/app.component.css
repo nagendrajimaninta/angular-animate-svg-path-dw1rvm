@@ -1,0 +1,13 @@
+p {
+  font-family: Lato;
+}
+
+path.sanjay {
+  stroke-dasharray: 744;
+  stroke: red;
+  fill:green;
+}
+
+path.me {
+  stroke-dasharray: 122;
+}
